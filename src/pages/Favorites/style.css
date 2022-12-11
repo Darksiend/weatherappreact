@@ -1,0 +1,11 @@
+.Favorites {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.fav-card {
+  width: 18%;
+  height: 240px;
+  border: 1px solid black;
+  margin: 10px;
+}

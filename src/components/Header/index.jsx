@@ -11,8 +11,9 @@ export const Header = () => {
         <Link to="/">
           <Button label="Home"> </Button>
         </Link>
-
-        <Button label="Favorites"></Button>
+        <Link to="/favorites">
+          <Button label="Favorites"></Button>
+        </Link>
       </div>
     </div>
   );
