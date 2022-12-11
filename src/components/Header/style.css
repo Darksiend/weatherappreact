@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  width: 100%;
+  height: 60px;
+  align-items: center;
+  justify-content: space-around;
+  background-color: gray;
+}
+
+.logo {
+  font-size: 28px;
+  color: white;
+}
+
+.buttons {
+  display: flex;
+}
