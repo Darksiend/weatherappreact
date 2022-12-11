@@ -1,9 +1,7 @@
 import React from "react";
 import "./style.css";
 import { Button } from "primereact/button";
-import "primereact/resources/themes/lara-light-indigo/theme.css"; //theme
-import "primereact/resources/primereact.min.css"; //core css
-import "primeicons/primeicons.css";
+
 import { Link } from "react-router-dom";
 export const Header = () => {
   return (
